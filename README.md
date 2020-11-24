@@ -9,6 +9,6 @@ create a script that does all of that. and bind it to a hotkey
 - https://github.com/TheRealMarcusChiu/macos-create-delete-space-automation
 
 ## Create Space
-![create-new-space.gif](https://raw.githubusercontent.com/TheRealMarcusChiu/macos-create-delete-space-automation/master/reademe-extras/create-new-space.gif)
+![create-new-space.gif](https://github.com/marcus-chiu-mac-personalization/macos-create-delete-space-automation/blob/master/reademe-extras/create-new-space.gif?raw=true)
 ## Close Space
-![close-current-space.gif](https://raw.githubusercontent.com/TheRealMarcusChiu/macos-create-delete-space-automation/master/reademe-extras/close-current-space.gif)
+![close-current-space.gif](https://github.com/marcus-chiu-mac-personalization/macos-create-delete-space-automation/blob/master/reademe-extras/close-current-space.gif?raw=true)
